@@ -56,8 +56,8 @@ This repository implements a complete **Finite Automata-Based Real-Time Input Va
 
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
-   cd FLA-CLA2-TASK2
+   git clone https://github.com/Madhan22454/FLA-TASK_2.git
+   cd FLA-TASK_2
    ```
 2. (Recommended) Create and activate a virtual environment:
    ```bash
